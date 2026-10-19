@@ -1,0 +1,4 @@
+__pycache__/
+*.zip
+bundle_*/
+objcheck_*.csv
